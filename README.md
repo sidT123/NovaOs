@@ -16,3 +16,7 @@ Web apps now allow developers to code apps in html. A app store for these apps w
 Update 11/8/24
 
 The boot utilities manager is being developed, but production of the service has been postponed until further notice.
+
+Update 4/16/25
+
+Nova Os production is back on. We are hoping to bring this Os to you soon
